@@ -2,7 +2,7 @@
 """Daily feed updater for the HKGA Players 2026 dashboard.
 
 Pulls recent Hong Kong golf tournament results & news from public sources,
-merges them into data/feed.json (deduped, newest first, capped at 60 items).
+merges them into data/feed.json (deduped, newest first, capped at 80 items).
 
 Runs inside GitHub Actions (see .github/workflows/daily.yml).
 """
@@ -107,8 +107,8 @@ def hkga_local_tournaments():
     return uniq[:15]
 
 
-def google_news():
-    xml = fetch("https://news.google.com/rss/search?q=%22Hong%20Kong%22%20golf%20(junior%20OR%20amateur%20OR%20championship)&hl=en-US&gl=US&ceid=US:en")
+def google_news(query="%22Hong%20Kong%22%20golf%20(junior%20OR%20amateur%20OR%20championship)"):
+    xml = fetch(f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en")
     root = ET.fromstring(xml)
     out = []
     for item in root.iter("item"):
@@ -140,6 +140,11 @@ def main():
     new_items += safe(hkga_news, "hkga news")
     new_items += safe(hkga_local_tournaments, "hkga tournaments")
     new_items += safe(google_news, "google news")
+    # US junior circuits (added 2026-07-10)
+    new_items += safe(lambda: wp_posts("https://www.hjgt.org", "HJGT", search="junior"), "hjgt")
+    new_items += safe(lambda: google_news("AJGA%20junior%20golf%20championship"), "gnews ajga")
+    new_items += safe(lambda: google_news("%22US%20Kids%20Golf%22%20OR%20%22U.S.%20Kids%20Golf%22"), "gnews uskids")
+    new_items += safe(lambda: google_news("%22U.S.%20Junior%20Amateur%22%20OR%20%22Girls%27%20Junior%22%20OR%20%22Junior%20PGA%20Championship%22"), "gnews usga juniors")
 
     # merge with existing, dedupe by url (fallback title)
     def key(it):
@@ -157,7 +162,7 @@ def main():
     dated = [i for i in merged if i.get("date")]
     undated = [i for i in merged if not i.get("date")]
     dated.sort(key=lambda i: i["date"], reverse=True)
-    merged = (dated + undated)[:60]
+    merged = (dated + undated)[:80]
 
     FEED.parent.mkdir(parents=True, exist_ok=True)
     FEED.write_text(json.dumps({
