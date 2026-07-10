@@ -1,17 +1,425 @@
 {
- "updated": "2026-07-10T12:00:00+00:00",
+ "updated": "2026-07-10T13:24:39.141950+00:00",
  "items": [
-  {"date": "2026-07-09", "source": "Junior World / BlueGolf", "title": "USWING Mojing Junior World Championships conclude in San Diego — 28-player HK squad; best finishes: Stella Yang 7th (G7-8), Doris Sung T12 (G13-14)", "url": "https://jwgc.bluegolf.com/bluegolf/jwgc26/event/jwgc261/index.htm", "kind": "result"},
-  {"date": "2026-07-05", "source": "hkga.com", "title": "Summer season moves into full swing — GAHKC names squads for Junior World, Singapore Open Amateur, The Optimist and Malaysian Ladies Amateur Open", "url": "https://www.hkga.com/post/summer-season-moves-into-full-swing", "kind": "news"},
-  {"date": "2026-07-03", "source": "FCG", "title": "Peiqi Hou wins FCG International Girls 13-14 at −12; Joseph Cao 2nd and Doris Sung T2 in their divisions; Jun Tian T3 Boys 15-18", "url": "https://futurechampionsgolf.com/congratulations-to-the-2026-fcg-international-championship-champions/", "kind": "result"},
-  {"date": "2026-06-21", "source": "APGC", "title": "APGC Junior Championship, Royal Colombo: Lander Lee T6, Sabrina Wong T7 for Hong Kong, China", "url": "https://www.apgc.online/son-ends-jinx-and-achiraya-rises-at-apgc-junior-championship/", "kind": "result"},
-  {"date": "2026-06-18", "source": "GAHKC tournaments", "title": "HK Close Amateur & Mid-Amateur (weather-shortened): William Tang wins; Jun Tian 2nd", "url": "https://www.hkga.com/tournaments/local/hong-kong-close-amateur-and-mid-amateur-championships-2026-3", "kind": "result"},
-  {"date": "2026-06-15", "source": "hkga.com", "title": "Taichi Kho wins the International Series Morocco", "url": "https://www.hkga.com/post/taichi-kho-wins-the-international-series-morocco", "kind": "result"},
-  {"date": "2026-06-13", "source": "AGIF", "title": "Felicia Hughes wins Girls Overall title at Singapore Junior Golf Championship, Keppel Club", "url": "https://agif.asia/2026/06/troy-and-felicia-flex-their-muscles-at-keppel/", "kind": "result"},
-  {"date": "2026-06-12", "source": "APGC", "title": "Isaac Timso runner-up in Development Division at Ciputra Golfpreneur Junior World Championship, Jakarta", "url": "https://www.apgc.online/thais-take-top-honours-at-ciputra-golfpreneur-showpiece/", "kind": "result"},
-  {"date": "2026-05-15", "source": "AGIF", "title": "Hong Kong, China take bronze at 46th Queen Sirikit Cup behind Japan and Korea", "url": "https://agif.asia/2026/05/japans-queen-sirikit-cup-highland-fling/", "kind": "result"},
-  {"date": "2026-04-24", "source": "APGC", "title": "Faldo Series Asia Grand Final: Jun Tian T4 and Doris Sung T5 in U16 divisions at Laguna Lang Co", "url": "https://www.apgc.online/play-off-delight-for-coby-at-faldo-series-asia-grand-final/", "kind": "result"},
-  {"date": "2026-04-10", "source": "hkga.com", "title": "How Tian and Leung tamed the Junior Close — Tian Jun (63 in R2) and Zabby Leung win HK Junior Close overall titles at Clearwater Bay", "url": "https://www.hkga.com/post/how-tian-and-leung-tamed-the-junior-close", "kind": "result"},
-  {"date": "2026-04-04", "source": "APGC", "title": "Arianna Lau T19 at Augusta National Women's Amateur — first HK, China player to make the cut", "url": "https://www.apgc.online/ariannas-ambitions/", "kind": "result"}
+  {
+   "date": "2026-07-09",
+   "source": "Junior World / BlueGolf",
+   "title": "USWING Mojing Junior World Championships conclude in San Diego — 28-player HK squad; best finishes: Stella Yang 7th (G7-8), Doris Sung T12 (G13-14)",
+   "url": "https://jwgc.bluegolf.com/bluegolf/jwgc26/event/jwgc261/index.htm",
+   "kind": "result"
+  },
+  {
+   "date": "2026-07-03",
+   "source": "FCG",
+   "title": "Peiqi Hou wins FCG International Girls 13-14 at −12; Joseph Cao 2nd and Doris Sung T2 in their divisions; Jun Tian T3 Boys 15-18",
+   "url": "https://futurechampionsgolf.com/congratulations-to-the-2026-fcg-international-championship-champions/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-06-26T01:00:36Z",
+   "source": "AGIF",
+   "title": "Yutaka Finds Extra Gear in Title Defence",
+   "url": "https://agif.asia/2026/06/yutaka-finds-extra-gear-in-title-defence/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-06-22T07:23:19Z",
+   "source": "AGIF",
+   "title": "Fanling Return for Historic National Open",
+   "url": "https://agif.asia/2026/06/fanling-return-for-historic-national-open/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-21",
+   "source": "APGC",
+   "title": "APGC Junior Championship, Royal Colombo: Lander Lee T6, Sabrina Wong T7 for Hong Kong, China",
+   "url": "https://www.apgc.online/son-ends-jinx-and-achiraya-rises-at-apgc-junior-championship/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-06-18T07:00:00+00:00",
+   "source": "India Golf Weekly",
+   "title": "Sandeep Sandhu invited for British Senior Amateur - India Golf Weekly",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXNmVGdtYnVFRFNod2VDXzBHNWpTZG93MzdaRlZTUWxRaFBTbHlybVg5b29fZEdXU1A0QnExZXk5SzZiMHNPMU9vcklMNXpQMkFjaDh0a0pobTBEU29QYk1iRUgyRXg0S0JjY0dFN0did3B6Zkh4dWNFQ3MwbXpBSXZOSmg1aHl2ejV0a3JZM19rWTRLNVZnVm42M3g5cUMwVmtjRXVScEJxUQ?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-18",
+   "source": "GAHKC tournaments",
+   "title": "HK Close Amateur & Mid-Amateur (weather-shortened): William Tang wins; Jun Tian 2nd",
+   "url": "https://www.hkga.com/tournaments/local/hong-kong-close-amateur-and-mid-amateur-championships-2026-3",
+   "kind": "result"
+  },
+  {
+   "date": "2026-06-17T00:35:15Z",
+   "source": "AGIF",
+   "title": "Royal Welcome for APGC in Colombo",
+   "url": "https://agif.asia/2026/06/royal-welcome-for-apgc-in-colombo/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-15T22:37:44Z",
+   "source": "AGIF",
+   "title": "Ciputra Golfpreneur Foundation's Olympic Goal",
+   "url": "https://agif.asia/2026/06/ciputra-golfpreneur-foundations-olympic-goal/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-15T00:05:01Z",
+   "source": "AGIF",
+   "title": "Emotional Kho Conquers Mental Demons",
+   "url": "https://agif.asia/2026/06/emotional-kho-conquers-mental-demons/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-13T05:57:02Z",
+   "source": "AGIF",
+   "title": "Troy and Felicia Flex their Muscles at Keppel",
+   "url": "https://agif.asia/2026/06/troy-and-felicia-flex-their-muscles-at-keppel/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-13T05:57:02+00:00",
+   "source": "Asian Golf Industry Federation",
+   "title": "Troy and Felicia Flex their Muscles at Keppel - Asian Golf Industry Federation",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04M0lkMGp1bEtaUlFBeFZIbTA0NTJhem9mRHd5M0dnNDhVNlByVEd5RlFiV3pNVDdfMktrVGJaX2pTd2RadTBxSGhqMUpiOGNFODBjYUJBV0tweGgwSldtMndUc0tTUE1DMlBJYkI0SjRjNnNaV2djWE1UNk8?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-13T03:09:12Z",
+   "source": "AGIF",
+   "title": "Thais Take Top Honours at Junior Showpiece",
+   "url": "https://agif.asia/2026/06/thais-take-top-honours-at-junior-showpiece/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-06-12",
+   "source": "APGC",
+   "title": "Isaac Timso runner-up in Development Division at Ciputra Golfpreneur Junior World Championship, Jakarta",
+   "url": "https://www.apgc.online/thais-take-top-honours-at-ciputra-golfpreneur-showpiece/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-06-08T07:00:00+00:00",
+   "source": "Today's Golfer",
+   "title": "2026 LIV Golf schedule and results - Today's Golfer",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEFLb1hvaWMwR2VvczlGRVhVWWhzSWFPSzZYc1piUGRPTVY3Q0c0bW5laUxSTTVnWHlZZmZvY0p3Zm9VTWxtTlBqVTYyYjdLaW52QnRWMmxQNkkyQUhKMktJbTFaYjNkN0hQLVNmc3VQX0Q1WkYzdVAwbWpMQ3lmcDFuT243Zw?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-05-19T22:53:15Z",
+   "source": "AGIF",
+   "title": "Plover Cove's Innovative Turf Systems",
+   "url": "https://agif.asia/2026/05/plover-coves-innovative-turf-systems/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-05-15T15:31:26Z",
+   "source": "AGIF",
+   "title": "Japan's Queen Sirikit Cup Highland Fling",
+   "url": "https://agif.asia/2026/05/japans-queen-sirikit-cup-highland-fling/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-05-10T13:39:46Z",
+   "source": "AGIF",
+   "title": "'Solid' Snyman Snares Maiden Asian Tour Win",
+   "url": "https://agif.asia/2026/05/solid-snyman-snares-maiden-asian-tour-win/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-05-10T00:45:46Z",
+   "source": "AGIF",
+   "title": "Changing of the Guard at Hong Kong GC",
+   "url": "https://agif.asia/2026/05/changing-of-the-guard-at-hong-kong-gc/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-05-05T01:30:09Z",
+   "source": "AGIF",
+   "title": "All Roads Lead to Reignwood Thailand Park",
+   "url": "https://agif.asia/2026/05/all-roads-lead-to-reignwood-thailand-park/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-04-24T02:52:52Z",
+   "source": "AGIF",
+   "title": "Recognition for Hong Kong Showpiece",
+   "url": "https://agif.asia/2026/04/recognition-for-hong-kong-showpiece/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-24",
+   "source": "APGC",
+   "title": "Faldo Series Asia Grand Final: Jun Tian T4 and Doris Sung T5 in U16 divisions at Laguna Lang Co",
+   "url": "https://www.apgc.online/play-off-delight-for-coby-at-faldo-series-asia-grand-final/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-04-23T00:39:49Z",
+   "source": "AGIF",
+   "title": "SGA Appoints Minister as Patron",
+   "url": "https://agif.asia/2026/04/sga-appoints-minister-as-patron/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-14T00:06:25Z",
+   "source": "AGIF",
+   "title": "High-Powered Panel at AGIF Conference",
+   "url": "https://agif.asia/2026/04/high-powered-panel-at-agif-conference/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-10",
+   "source": "hkga.com",
+   "title": "How Tian and Leung tamed the Junior Close — Tian Jun (63 in R2) and Zabby Leung win HK Junior Close overall titles at Clearwater Bay",
+   "url": "https://www.hkga.com/post/how-tian-and-leung-tamed-the-junior-close",
+   "kind": "result"
+  },
+  {
+   "date": "2026-04-09T22:23:59Z",
+   "source": "AGIF",
+   "title": "Phillips Assumes LET Reins",
+   "url": "https://agif.asia/2026/04/phillips-assumes-let-reins/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-09T07:00:00+00:00",
+   "source": "Prestige Online - Singapore",
+   "title": "Fifa Laopakdee on Being the First Thai Amateur Golfer to Participate in the 2026 Masters - Prestige Online - Singapore",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3I2TWRZbVlXbmZSMndwbXJ6OTNyWmZ0UUtGazVzcDVsd2YxUkN1NDNlM3dfU1JNMW5kLVZZWmlZbGFaaFFsOG5wOXRZc051bEtrMDRFYU0xOTFvdG9fNzVFb0tfVWs4YVAzdjByU25aRkVMaWRKenB2ZWxPMlE2TExteUpSOTlUaHdMNnVCQlV6bWpXWHRYVdIBngFBVV95cUxQbE1DeDZmaVJ4Nm1RNEJ6TlFXaVZoMnR6RDgycHNibVFDdlRPYnNqMFVIQmdBQWhSUkN6X3QzLWI1NWVqUTZqMG5NV2oybG44OHBZLWlua1ZZc0I2SlR6LWVGNkoxazhCWXNvY1pST2pVb0M3dWFxLW5IWGdfbWs3LVVOSFJlNWs1dncwRmxPczA4anRvWXBRQmVTR19Hdw?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-06T22:30:57Z",
+   "source": "AGIF",
+   "title": "Experts on Course for AGIF Conference",
+   "url": "https://agif.asia/2026/04/experts-on-course-for-agif-conference/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-04-04",
+   "source": "APGC",
+   "title": "Arianna Lau T19 at Augusta National Women's Amateur — first HK, China player to make the cut",
+   "url": "https://www.apgc.online/ariannas-ambitions/",
+   "kind": "result"
+  },
+  {
+   "date": "2026-04-02T21:34:31Z",
+   "source": "AGIF",
+   "title": "Turf Industry Veteran Joins Centaur Team",
+   "url": "https://agif.asia/2026/04/turf-industry-veteran-joins-centaur-team/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-31T00:20:39Z",
+   "source": "AGIF",
+   "title": "Pro Tournament Access for AGIF Members",
+   "url": "https://agif.asia/2026/03/pro-tournament-access-for-agif-members/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-27T23:14:10Z",
+   "source": "AGIF",
+   "title": "Bringing Plover Cove Vision to Life",
+   "url": "https://agif.asia/2026/03/bringing-plover-cove-vision-to-life/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-12T07:00:00+00:00",
+   "source": "LIV Golf",
+   "title": "4Aces GC wins Team title at HSBC LIV Golf Hong Kong - LIV Golf",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aNnJKcjV1RllYaGEyUjUwYjdvY3Y5cGxaZzJUczhnRGk1UTR3TFQ4cVMzaS0zRURJc0tZeXNsWTBrQkVjWkJvZlZZVFpxakRyN1k4aFg5cjBHV1o2TUpINjlaamRvanRmalRVckYyLU1YX0FyMWpDag?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-08T08:00:00+00:00",
+   "source": "Yahoo Sports",
+   "title": "Here’s the prize money payout for each golfer at the 2026 LIV Golf Hong Kong event - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGhDejVrLV84NFYwZWYyckk4bFdOR2pPaXFLQlpjajhLVUo2NkpVSTg5QkNVR21iQWVaM2hLMmZEb1ZycWlWUks1cGlKbWxOVW1KT0tKUWYtOGhFMVJiRml1enI2eWo2UFRYbW42MktoVjRxX0o0cnlFMnRQb0RIM1BBUGtBQQ?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-08T08:00:00+00:00",
+   "source": "GOLF.com",
+   "title": "Jon Rahm’s LIV Hong Kong week started with hard questions. It ended in relief and victory - GOLF.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KbXpXdVlleDNjWmZKVGlSNTRJeHJ3am5iNTh2VS1SX0Z5YkVkZUJLWmN3M21TR2lMaWxBd0RVLUNLRHZnVUI4NEhYQmdvTVp3NExoSTBKTWNuc0NTZXc?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-08T08:00:00+00:00",
+   "source": "Yahoo Sports",
+   "title": "Bhatia wins Arnold Palmer Invitational in playoff. Rahm takes LIV Golf Hong Kong to end drought - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0J1b08zS1NvQlR6R3JYejZyLTZQdlBSX1FXOUE5YlRpR2hfMkJQNFo1ak9EcV9DR3ZkSnVVXzBTSjJ0ODd5RDNNeEFTbjNWeWdwaW5BbVUzM1VSYV9zMzl3TkRTV0RQUm10S0NoM1hFV2NFdUxheDJ4LVdZOE5sdHVUbWF6dWgxeG9na3FWTE0?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-08T08:00:00+00:00",
+   "source": "Golf Monthly",
+   "title": "How Much Did Jon Rahm Win At LIV Golf Hong Kong? - Golf Monthly",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNFZlVUx5TC1xOHlBUWxtMVBTR3Q5N1lBM3hoRUFuR2UzbHphM3FtNHFqSFpVV3BLSnA2VVNndGJpMmh1TFd5UENuem5UVVZ0WWhUUWU0MVdxV2NMeG52YnRHX3RRamdjbEp3cEVTRk5PREtLblozSXBtbXZNazdMUg?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-06T08:00:00+00:00",
+   "source": "Sports Illustrated",
+   "title": "LIV Golf Hong Kong Final Payouts and Prize Money: Jon Rahm Caps Week With Win - Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rNTNQazhDeDBkWFZQMFoxOF85ZnhKb2FrQWNiSmVkSmFTZDNxeEVaV19zdXVudmczVzFleERRRGxmdDg1bmNsSXpmTDdEdzE1SDdvcWRPZTBmNVNDMndISFpET0tZckthNHBuSHBySlZqYWFleXZhUXlpdktUdw?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-03-01T08:00:00+00:00",
+   "source": "Golf Monthly",
+   "title": "Phil Mickelson To Miss Third Straight LIV Golf Event As Two-Time Hong Kong Winner Steps In - Golf Monthly",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSF81eHQ3cU9MNDNlUFBTSWJnWjdtTU45RWJscXdHZUdkbWxhcEYyZTN4QlpLTjBTeTIwdDJTR0RuLWJ2ejBGWVMzYkZFX2RjbzZDYmRFR0dscmxOOHlrMVFSQ3c4Z1FqelhGTWM0U0xENGNyalVrd0pQQ3l3UmxaanRRZUs4d1g0dHlCN05uaXo?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-02-08T08:00:00+00:00",
+   "source": "South China Morning Post",
+   "title": "Hong Kong golfers struggle, as Cho Woo-young wins Philippine Golf Championship - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODNtTHppa1QzTVhZTTcwaHJycnJ6WkRZQVRtWnBSblN4NUhhcW15Z0tzWTR6a1VWX0ozbWliSTlVdVFTb280bFhZSWdFcGhFTGpGTzh3bDZoNlZqTzlDVkdPX0ZsWVljckVBcjJRUkh2Q2Y0OWx5S1o4VzBOcmZRQmlOcDJaVUhCTk1EQWQ3dlNITERZU3UyZTJqdE82aFlOVGJwTXUzaktFaXhrdUMxdFBtSUlQUm1sUEJheFQwMzhqRnJjNTZvd9IByAFBVV95cUxOY09nekwxM0hHSkwxRmhhUTdOTWxUNFBoZU1VU3JuX0VVREVrMDRtQmVrWGx2MFRyVHgwS2hoRnNCT3BtWXA4MDdHZC1uZG5xTllrMFhvV00tNlVnM2xHSDJscG02MW5WUC1Hc3NQV3JrUFN6MEQ0eUp0ZDBfN1d4Wm1fNzJaZDFNUzdpdHY4RElHTFdXR2pDcExhTnRZQUJ2bEpuVGdfcUI0c1ZqMXZXRm1MaXF0Rml6YWdJRTM3dFpHMGJNcDJrZg?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-02-04T08:00:00+00:00",
+   "source": "Asia-Pacific Golf Confederation",
+   "title": "Boost for Junior Golf Development in Hong Kong - Asia-Pacific Golf Confederation",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenZpUVBhLUl4NVd3NXBtcjdSRC14VW1laTZ1SVQ1MjJtOXgzdXRsNjVVOTNVZ2ctaUhHSFMzaHFqTndGTENsMWJEZ3lKWU1VNkxuYjM0U1p5VGh2ck0tSkVWVl9xTzhFMjFyenJpQWVZWkRsWUhvR3dGV1IyMmFZQzRUZnE0am1uRlFEcQ?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2025-11-02T07:00:00+00:00",
+   "source": "Golf Channel",
+   "title": "LIV’s Tom McKibbin wins Hong Kong Open in rout to punch Masters, Open tickets - Golf Channel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2dPNWV4ajN3bkFFV1NxM1BrR05kYm9BaXJmLXBpeTduYTBVXzBqeWprMGIyRjJtN1Q0UVgxdkRkVW9xWXJUenNJZkhqb2FObE9xcE00aWhlM3Z4QlEwOXkwLUdVSkwwZzV1WjRHUHAxVFFJeG9WbjBhSkVocUlsZXJnelZIejFac05OajFsVTJmdlloTVpVT19RM05FclV1V1ZTMVVoVG83VF90MFlN?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2025-11-01T07:00:00+00:00",
+   "source": "GOLF.com",
+   "title": "LIV phenom’s Hong Kong Open chance about more than major spots - GOLF.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzQnA3UnV0QVdyVXpHTFZSSWQ4WWNMUnhadThoOTFocThzemMxV2xwT0oyR2JySVZuWjBYdDN0ZEVYdkxNNzJKTUJJWHFLNnMzR21RUUdWY1M2S1FNTFkyYUhxRHRTay1wOTZvR1J5LURfemtwRUZsNjNEVQ?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "President's Letter",
+   "url": "https://www.hkga.com/post/president-s-letter-2024",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Summer season moves into full swing",
+   "url": "https://www.hkga.com/post/summer-season-moves-into-full-swing",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "How international travel helps all players develop",
+   "url": "https://www.hkga.com/post/how-international-travel-helps-all-players-develop",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Taichi Kho wins the International Series Morocco",
+   "url": "https://www.hkga.com/post/taichi-kho-wins-the-international-series-morocco",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Hughes aims to take hot form to APGC Juniors",
+   "url": "https://www.hkga.com/post/hughes-aims-to-take-hot-form-to-apgc-juniors",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "On Campus: Covi Yan and Emory University",
+   "url": "https://www.hkga.com/post/on-campus-covi-yan-and-emory-university",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Tian looks to keep ball rolling at Close Amateur",
+   "url": "https://www.hkga.com/post/tian-looks-to-keep-ball-rolling-at-close-amateur",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Leafy Ye gets down to business with the GAHKC",
+   "url": "https://www.hkga.com/post/leafy-ye-gets-down-to-business-with-the-gahkc",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Golf Shorts: From moves at the APGC, to WHAT, to WHAT",
+   "url": "https://www.hkga.com/post/golf-shorts-from-moves-at-the-apgc-to-what-to-what",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Vivianne Kan steps up for Singapore challenge",
+   "url": "https://www.hkga.com/post/vivianne-kan-steps-up-for-singapore-challenge",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "How the Janet Cup opens doors for young golfers",
+   "url": "https://www.hkga.com/post/how-the-janet-cup-opens-doors-for-young-golfers",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "hkga.com",
+   "title": "Queen Sirikit result celebrates the rise of a new generation",
+   "url": "https://www.hkga.com/post/queen-sirikit-result-celebrates-the-rise-of-a-new-generation",
+   "kind": "news"
+  },
+  {
+   "date": "",
+   "source": "GAHKC tournaments",
+   "title": "Mid Summer Classic Tournament 2026",
+   "url": "https://www.hkga.com/tournaments/local/mid-summer-classic-tournament-2026",
+   "kind": "result"
+  },
+  {
+   "date": "",
+   "source": "GAHKC tournaments",
+   "title": "Ladies Golf Clinic for Beginners 2026",
+   "url": "https://www.hkga.com/tournaments/local/ladies-golf-clinic-for-beginners-2026",
+   "kind": "result"
+  },
+  {
+   "date": "",
+   "source": "GAHKC tournaments",
+   "title": "Faldo Series Hong Kong Championship 2026",
+   "url": "https://www.hkga.com/tournaments/local/faldo-series-hong-kong-championship-2026",
+   "kind": "result"
+  },
+  {
+   "date": "",
+   "source": "GAHKC tournaments",
+   "title": "Hong Kong Junior Open Championship 2026 (Aged 7-10)",
+   "url": "https://www.hkga.com/tournaments/local/hong-kong-junior-open-championship-2026-aged-7-10",
+   "kind": "result"
+  },
+  {
+   "date": "",
+   "source": "GAHKC tournaments",
+   "title": "Hong Kong Junior Open Championship 2026 (Aged 11 - 17)",
+   "url": "https://www.hkga.com/tournaments/local/hong-kong-junior-open-championship-2026-aged-11-17",
+   "kind": "result"
+  }
  ]
 }
