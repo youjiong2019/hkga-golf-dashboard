@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-17T21:18:20.904516+00:00",
+ "updated": "2026-08-18T21:16:01.600031+00:00",
  "items": [
+  {
+   "date": "2026-08-18T08:47:27+00:00",
+   "source": "News Channel 5 Nashville",
+   "title": "Sumner County 6-year-old competes at US Kids Golf World Championship - News Channel 5 Nashville",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOV9RMTlITWZsaHFZU04wbHFEdVdZOTVCcVBtdHJpZDdnM2hUZVBYSWpTR3RublVfbHUzbGxsSGxnaHlQRjZyQjg5R0cySFdFZG9zbzVRRExyY1g2TGp4WGNCbERhMjFLUEhOOXdYdU5uVHlIM0JpUXVDTzRuSzdpVmR1SkJXNDJYR09LX1VuTzRkVWl6MHNzR240aUs2SEk2dWtiRA?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-08-18T02:49:46+00:00",
+   "source": "Asia-Pacific Golf Confederation",
+   "title": "Bao Phat's Victory Breeze at Hoiana Junior Golf Invitational - Asia-Pacific Golf Confederation",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjJ1NUVoeTMtUjRVclB5T2hXa2hUQmRCZ3hHYUVuMWxRY3NzeWNWN3FTVF9MeXN3WU11T0VnOWhvcENQeU9DN2NlQzNhdDg1aXZXZzBQMVpCU3J3djk0MlM2ejIzVG1RS2UySHAyNktZWHhDTlZjbl9PajlGc19HQW5GNVF5WEc0SnVXTQ?oc=5",
+   "kind": "news"
+  },
   {
    "date": "2026-08-17T04:08:00+00:00",
    "source": "WLOX",
@@ -13,13 +27,6 @@
    "source": "WLOX",
    "title": "Pass Christian 11-year-old wins U.S. Kids Golf World Championship - WLOX",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOExSTTRqd1FmYmFXd3BhQzBUa0xhS2VDVVNabDUwTHFqR09HM19WeEwxalk3N2dxaFdfTWpiTE1kTnk4R2RvbjJiZlRTZ25hWjRKNmtYczRwX2dDZUY5SkVCcTFpdW1hZk5uWHpqVnAwY3BtNkd0ZW1icFl5WnZrcDV5bFZMckdDVXN0Q29PMVJoWThyYXNsY1JRVTjSAbABQVVfeXFMUHV0bEZ3OTRFSUtCQkZHdUNJYm11amZfODJDMnhrWlh3YVhDOHdqZzFxVjhCVTlZaU4ybW9vSVhaMVVNc29HZHhPWnNTa2czSjJvN1NzbmNKM2pLWlAydU5nQjZsdUhsdVJSUTdNZmlkaFJTV1R4WEVyTTV6MmRXS3ExVV94a3FhNlFneHp1WDNkcHQ4NWlDVkZDRzhNTzlKNTFOWFp0QXBSeEJuc2JMYmk?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-08-17T03:33:28+00:00",
-   "source": "News Channel 5 Nashville",
-   "title": "Sumner County 6-year-old competes at US Kids Golf World Championship - News Channel 5 Nashville",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOV9RMTlITWZsaHFZU04wbHFEdVdZOTVCcVBtdHJpZDdnM2hUZVBYSWpTR3RublVfbHUzbGxsSGxnaHlQRjZyQjg5R0cySFdFZG9zbzVRRExyY1g2TGp4WGNCbERhMjFLUEhOOXdYdU5uVHlIM0JpUXVDTzRuSzdpVmR1SkJXNDJYR09LX1VuTzRkVWl6MHNzR240aUs2SEk2dWtiRA?oc=5",
    "kind": "news"
   },
   {
@@ -87,8 +94,8 @@
   },
   {
    "date": "2026-08-10T09:07:28+00:00",
-   "source": "Today's Golfer",
-   "title": "2026 LIV Golf schedule and results - Today's Golfer",
+   "source": "todays-golfer.com",
+   "title": "2026 LIV Golf schedule and results - todays-golfer.com",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEFLb1hvaWMwR2VvczlGRVhVWWhzSWFPSzZYc1piUGRPTVY3Q0c0bW5laUxSTTVnWHlZZmZvY0p3Zm9VTWxtTlBqVTYyYjdLaW52QnRWMmxQNkkyQUhKMktJbTFaYjNkN0hQLVNmc3VQX0Q1WkYzdVAwbWpMQ3lmcDFuT243Zw?oc=5",
    "kind": "news"
   },
@@ -121,7 +128,7 @@
    "kind": "news"
   },
   {
-   "date": "2026-08-07T22:07:00+00:00",
+   "date": "2026-08-07T07:00:00+00:00",
    "source": "Bakersfield.com",
    "title": "Chuang, Liang claim AJGA Kevin Harvick Foundation Junior Golf titles - Bakersfield.com",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTM5dEJOMEY1a0UwZ0JVV2RVYmkteHIyTFFsUGFvZnRMVExHSU8zOXBaVFI5RVZtTXNyYWF5WTVrTkFINWkyRWMyajIyeUxsRncxYmJaaktVc1oxalkwM1FmdFFfOHU2RURITHJLbHBxWVRsRG81bXBCRGlZdjA4Sjh3OGVVUHplYkQ4eDVLQXg0YVdsU1VPN1ZCUU9tRUs2TWgtRXhlSEhCTzlxMDBQd2ZrdHlwanJ3MEJhTGVUY2RYTENiOW12YVk0Uk1iUzlRQUUwZ3RUR0RIdlpEZTJVUXhSLWZ3MU0?oc=5",
@@ -149,17 +156,17 @@
    "kind": "news"
   },
   {
-   "date": "2026-08-05T19:43:10+00:00",
-   "source": "stateportpilot.com",
-   "title": "Two win medals at U.S. Kids golf event at Myrtle Beach - stateportpilot.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQelp1WG1zN0JFeVRpTmdZZ0QtdjJNNGQzWXZibmJ5M2ZWcmxIVk51T05ZT3Z1MGQ4MmtmdmkwNzJEdHY1QzB4UmpJM1NuY0ttbTU1dHJQVl9RdEY0d0UyQmNNWU1xbkM0VENHUkd6TnF3RXZBczJmZ0ZNQnNqZTQtdjVGZVB6ZEpnSkFz?oc=5",
-   "kind": "news"
-  },
-  {
    "date": "2026-08-05T14:24:28Z",
    "source": "HJGT",
    "title": "5 Ways to Help Your Range Game Show Up on the Golf Course",
    "url": "https://www.hjgt.org/blog/5-ways-to-help-your-range-game-show-up-on-the-golf-course/",
+   "kind": "news"
+  },
+  {
+   "date": "2026-08-05T07:00:00+00:00",
+   "source": "The State Port Pilot",
+   "title": "Two win medals at U.S. Kids golf event at Myrtle Beach - The State Port Pilot",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQelp1WG1zN0JFeVRpTmdZZ0QtdjJNNGQzWXZibmJ5M2ZWcmxIVk51T05ZT3Z1MGQ4MmtmdmkwNzJEdHY1QzB4UmpJM1NuY0ttbTU1dHJQVl9RdEY0d0UyQmNNWU1xbkM0VENHUkd6TnF3RXZBczJmZ0ZNQnNqZTQtdjVGZVB6ZEpnSkFz?oc=5",
    "kind": "news"
   },
   {
@@ -247,17 +254,17 @@
    "kind": "news"
   },
   {
-   "date": "2026-07-31T12:39:15+00:00",
-   "source": "Golf Monthly",
-   "title": "Charlie Woods Suffers Another Blow With Missed Cut At Junior PGA Championship - Golf Monthly",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmRieTM1RHNsV2p6ODR5YmlFVHFzXy1TRkZSQjVrSk5Gd2hSRThObGFPSWpCcGJYZE0xb0djS0I5eFFnVDdpXzRWdjJuZklJR0NzOXFVWWJCNlpjT1NBS2VlVDRiVmRHSjhZRFVxaTVFcTB5ZnBKZ3Q5WkhPVlBodzE3dDVGUDF5N2Y5Q0NVUjNzaWFTNnVDWFd2UzhkQlA2U1J6a2pscFgxOUh1TTJJ?oc=5",
-   "kind": "news"
-  },
-  {
    "date": "2026-07-31T11:32:07+00:00",
    "source": "dailyclubgolf.com",
    "title": "LIV Golf Insiders Warn of Imminent Bankruptcy Despite Reported $250M Investment Deal - dailyclubgolf.com",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1c4ME5VWS1RVUlLdFo5cFdrbHBCX2R6RUpFdXdVSGh4dUszTjJ5Q1R6amdpUUtwUFgzZVdLTGp6SnQ1bUVsV3BxN2RDZUxvZVVVOWJMbk5VdDlUTjFSN255bk5yVGVGOHFYeWxBQnJvT1ZjbURyOVBYdlJhSEdKQ2Zsa0w2RkI5ajBrdFMzZWZucHV2V0JmRlR1WUgtbUliUXVGUUg3WnkzMEQ1Tmt0LVY0X0ZyS01IdVAyaG9kckVGdWZzSnR4bkh3?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-07-31T07:00:00+00:00",
+   "source": "Golf Monthly",
+   "title": "Charlie Woods Suffers Another Blow With Missed Cut At Junior PGA Championship - Golf Monthly",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmRieTM1RHNsV2p6ODR5YmlFVHFzXy1TRkZSQjVrSk5Gd2hSRThObGFPSWpCcGJYZE0xb0djS0I5eFFnVDdpXzRWdjJuZklJR0NzOXFVWWJCNlpjT1NBS2VlVDRiVmRHSjhZRFVxaTVFcTB5ZnBKZ3Q5WkhPVlBodzE3dDVGUDF5N2Y5Q0NVUjNzaWFTNnVDWFd2UzhkQlA2U1J6a2pscFgxOUh1TTJJ?oc=5",
    "kind": "news"
   },
   {
@@ -402,8 +409,8 @@
   },
   {
    "date": "2026-07-26T07:00:00+00:00",
-   "source": "golf.com",
-   "title": "‘Pretty surreal’: Alternate stuns star in huge upset at 2026 U.S. Junior Amateur - golf.com",
+   "source": "GOLF.com",
+   "title": "‘Pretty surreal’: Alternate stuns star in huge upset at 2026 U.S. Junior Amateur - GOLF.com",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeThvczI2TnpKUVBlTGpoM0Q3ZkROZ2IwUkQ4Ri1HU3N3OXZHVXEzTGwzbmotbktWZ1VtU3gzcjF4Tnl5NmI4NHk3MENoWkNTcEk0cXhYQU1MbDZRS2p6cDNtNWlQTjM0XzFqZTBXZmpESE9ZZnJQRDVvbWdPZUFQSG1vU21ZOFJDT0NB?oc=5",
    "kind": "news"
   },
@@ -412,13 +419,6 @@
    "source": "WWBT",
    "title": "Moseley golfer Noah Maclauchlan wins US Junior Amateur title - WWBT",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTVHekZBTFhMRzdKOWdKRjJ3ZUd1dXZXcWVVby1iR1h5S3ltY3BNY25oeHBwM0V2a0hVdlZoNDRRQ25EMUZXTHBGaXE4bVRqVmk4enRIRE5LZWlGNV9OMU5fUFlqMTJrWlZUS2gtcHlhZ2dwMmlCc1F4YVdud1JKZGhSenFNS0E3aW5MZ1NwelJ2a3p1Zzl4WUxyTHgwMWFGd3B3?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-26T00:30:44+00:00",
-   "source": "Golf Digest",
-   "title": "Lucky to be in the U.S. Junior, Noah Maclauchlan pulls off huge upset over Miles Russell to win title - Golf Digest",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnJkTE5VRklLczhzeHVoazFPLVhLaUx0YUpaMk9BN1dqS1FpcG91RHJCN3hNMUFmQkRQUzNTcXFpTU1MSGFkYk5maUxzakRRaWlUMVQ4SzRXTHhmdDQ0VDhtNV9EVlRvdHAzZ1RWZm1seXQ5bUF3S0dJbFVTMUZqUW5xS0tsd1dwOXFSN2xZSG5weXlESnlPSXpWWWRHRVlKTnhQeE5BOEhSaHNq?oc=5",
    "kind": "news"
   },
   {
@@ -473,13 +473,6 @@
   {
    "date": "2026-07-25T07:00:00+00:00",
    "source": "Golf Channel",
-   "title": "Noah Maclauchlan wins U.S. Junior Amateur Championship over Miles Russell - Golf Channel",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXF5U1BWUkhCS3d4aS15aGtBampoemNZMnJDeEVQTHcxNGJDU2lSYVpLZllhMDFEdHZWWEJXcGllcU9MNjA5bUlvTklWZ0pWQUNiMV9GYldwOWo5NVRKMnRlZVg0ckhjNThWNTR4bDI0V0l0REFYQUVnbFVCUm55anEtUTFUOTlzZkNYRDVFMjRDMzBrQ1N3WEIxWkd1ZHZGWVQ1NmlSS244enE4SHc?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-25T07:00:00+00:00",
-   "source": "Golf Channel",
    "title": "U.S. Junior Amateur 2026: Championship match highlights - Golf Channel",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2xLWHJjWnUtaWdBMTlOaXN3VGczbzBZT05kbmN6TEFFcnVmZ1BldzdQcVg4MzZHZEtIdEJfdWlQZ0xWQmRRazN5eHVKNVVUUDBRcEFWQkhrYnJqSGsyNml2UnNHNFprR1kzYnRmNjhxQUx3RFFzQldod1UtdnM3bEpSVlg0dU54c1E0ZG9ZandZVVp3M0E?oc=5",
    "kind": "news"
@@ -489,6 +482,20 @@
    "source": "Golf Channel",
    "title": "Noah Maclauchlan wins U.S. Junior Amateur Championship - Golf Channel",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamg3ako4cldpLWF1SDFJMjJfQUxIYWxnVThfcTVFV2dHVFBLbUhnRTlSR0c2Uzc5NndVeFN3dktzLWx1UjkxQ0xfbVZQSXNnZUg1SjJOa1BMUFQwUHJmMXVDWFQxQTE3am5uYzRNLVd6Q2x5T29Ua1RZU1FCUDlMa0Z5SEUxNWRRRU1lMFRxalpRVWV0bkE?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-07-25T07:00:00+00:00",
+   "source": "Golf Digest",
+   "title": "Lucky to be in the U.S. Junior, Noah Maclauchlan pulls off huge upset over Miles Russell to win title - Golf Digest",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnJkTE5VRklLczhzeHVoazFPLVhLaUx0YUpaMk9BN1dqS1FpcG91RHJCN3hNMUFmQkRQUzNTcXFpTU1MSGFkYk5maUxzakRRaWlUMVQ4SzRXTHhmdDQ0VDhtNV9EVlRvdHAzZ1RWZm1seXQ5bUF3S0dJbFVTMUZqUW5xS0tsd1dwOXFSN2xZSG5weXlESnlPSXpWWWRHRVlKTnhQeE5BOEhSaHNq?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-07-25T07:00:00+00:00",
+   "source": "Golf Channel",
+   "title": "Noah Maclauchlan wins U.S. Junior Amateur Championship over Miles Russell - Golf Channel",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXF5U1BWUkhCS3d4aS15aGtBampoemNZMnJDeEVQTHcxNGJDU2lSYVpLZllhMDFEdHZWWEJXcGllcU9MNjA5bUlvTklWZ0pWQUNiMV9GYldwOWo5NVRKMnRlZVg0ckhjNThWNTR4bDI0V0l0REFYQUVnbFVCUm55anEtUTFUOTlzZkNYRDVFMjRDMzBrQ1N3WEIxWkd1ZHZGWVQ1NmlSS244enE4SHc?oc=5",
    "kind": "news"
   },
   {
@@ -552,13 +559,6 @@
    "source": "WFMZ.com",
    "title": "Highlights from second day of match play at US Junior Amateur Golf championships - WFMZ.com",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRkVxNXhsbnJQSExyTnN0UU1XWVUwZE1mRE11bTVwR1d6N2F3eTZ3YU9Yd0FUQnpkdXhyZE5RUzBtRVZOSHFudzBTTm9nNkx2eXdIMEFSMzRhZy1fbVJBZFAxQWhTVzFZVzZKWnNnVW9GR1FDOFItdDdoVjdxZ3Y4aXd5eUFiMXRzMWRGZENWaFpVWjVhdjFpVWZSYzRROXlsS1h0SV94U3dWYVdhbGR6Y2ZrUlotN05yRlpZS1VZZ1dsY1ZXSTREd2p4SzhBYWRTb0UxZ1ZVZ3AteGVfYnNkMlNXenNjSzNTdFhCX2ItNA?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-24T01:24:38+00:00",
-   "source": "Mass Golf",
-   "title": "Western Winner: Longmeadow's Cecily Henshon Wins Mass Girls' Junior Amateur Title - Mass Golf",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EY3NwY3Nqa3N6RzQxYU5Sc2ZXT3FkeW1PQloxZEhDQWU2ckpHdlI3Tm1wZlNjMEpTdzVPUzdHNjlscmJOdFJCMjlBNXBHcHVaVEltY19nUmtjUW1DNlkzRURUY2FkbTBBaDhvUlAwRlJ5d25x?oc=5",
    "kind": "news"
   }
  ]
