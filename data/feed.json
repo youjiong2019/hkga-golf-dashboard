@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-05T22:32:10.418461+00:00",
+ "updated": "2026-09-06T22:36:31.072919+00:00",
  "items": [
+  {
+   "date": "2026-09-05T17:41:00+00:00",
+   "source": "Golfweek",
+   "title": "Why the AJGA's Junior Players is a launching pad for future PGA Tour stars - Golfweek",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1FDaVN2eUZFSG50R25LX1JrVml2S1M0c3BUUDhFSVB3Zml2ZzJTZ3Qza1dqVVRMMkliV3o2alhyOEU3RENoQ1FJSEI1cDlDS1FHLU41Y0J3R2lqakg3U0lmN0xkTkpobXJSOWxYLXFocXdDU3Utb3pILWdIVUVQbjR3S2lwZEQ5Qkk3MUt0R2Ixc1hpdTNHdDd6ZW1BamdNYlVpMGhiY3VkdzJjalFTTnJraWtQTnhSeldYQlJ0MmotYUp4Rm5zQlJjYno3Vy1xX0VDemhGZTRKaTA?oc=5",
+   "kind": "news"
+  },
   {
    "date": "2026-09-04T18:14:25+00:00",
    "source": "USGA",
@@ -14,6 +21,20 @@
    "title": "Hong Kong Trio Clinch Famous Cup Win",
    "url": "https://agif.asia/2026/09/hong-kong-trio-clinch-famous-cup-win/",
    "kind": "result"
+  },
+  {
+   "date": "2026-09-04T16:02:39+00:00",
+   "source": "Asian Golf Industry Federation",
+   "title": "Hong Kong Trio Clinch Famous Cup Win - Asian Golf Industry Federation",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16X0NQYVRSYzFvQ1VFb054b0pNenU3TTZadjRmRGxYUTlmdFI5a2dfZm9EZDktdE1KbkNXQmlPTXFfZE9raEZBMW94NG9LU3lEMlkyLWhYX05DZTNndW1fRGlWWVRUTlJralh5OERtajQ?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-09-04T11:19:49+00:00",
+   "source": "South China Morning Post",
+   "title": "Hong Kong golfers claim historic Asia-Pacific Amateur Team Championship win - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlBQZ2gtLUs2bG5VaDlmYVB5NUxfWUxvel94SW5maF9HaktlSkdCSkxkdXVBOVVDSjhxTmNTZ2MxLW8xVWR0LVE0Tm42akx5UnJ5dDVCYjBFd1lGdHVIUGp5ZnNTU0wxbFBMbllieGF2WTBuUGd4VURWTE5LYlZSUHZmWVR6QXRyM2dFSHd0b0w0czVidkpfRkJ3Mm81TGoxYk9UeWZlYUFSZG1nR3RDNEVqQkFaLXR1TGlEX1JPTXJOQk5INjBvUmZIQ1JiREJpZXfSAdIBQVVfeXFMUDFURXNkcFF5UVVPd3U4a1UwM0staGR2T1dZTks3YzJ6ZWhYZjRXX0NpQVk5dkQzMkxWTlV0c2dhUlVUNElwLTJPTGVEUDFvb1dmZHhiclN6a1dfalBRaFpuQ011bG1wVzNrSm1xOTRFakxmbzRWYXlLZjdST2FmTE1wZjZEWE1fVEwtNmVPS2l6MDE1RDBCMXZWeWItN1d4Um9DTEgwdGVNWmJabHNPTDl3LWpzREMwLUdVT0dCODQwQUtMU3JDVl9oX0RwVEdQcy1R?oc=5",
+   "kind": "news"
   },
   {
    "date": "2026-09-04T11:19:49+00:00",
@@ -93,14 +114,14 @@
    "kind": "news"
   },
   {
-   "date": "2026-08-28T07:21:00+00:00",
+   "date": "2026-08-28T07:00:00+00:00",
    "source": "Yahoo Finance",
    "title": "All Eyes on Hong Kong! Futu Teams Up with LPGA to Bring Ladies Golf World Championship to the City for the First Time - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHVsbzh2N0FYdWRVcXhPMFJ0WjhQRjMtalVfbkJicW1MNmxjcHV5eXhPZXVlVTJfQTZxTWp6T3RvbU16TzhGWjZzcFFBRVkyZ19ISGpQTWNsbkJFX1M4dkRLOS0zbElhRFctdVYtNjJ1U0RLYm1udG5kd0ZEVjUwcjZrWGZsdWZ3OGxTTXJscTZYQnlHdFRsOQ?oc=5",
    "kind": "news"
   },
   {
-   "date": "2026-08-28T03:42:57+00:00",
+   "date": "2026-08-28T07:00:00+00:00",
    "source": "Golf Industry Asia",
    "title": "LPGA to Bring Tour Event Back to Hong Kong with Record $3.4 Million Purse - Golf Industry Asia",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGctS095aHo3YXdVeWZxdUw2NmRMdmFKUEUxRGJtMGpScHJ4WDFrNkhhaHoxRjVWMndKWnotMTFSZEFFdW1uV040VGNqLXpwczZkdi04WEYwN3hQZ0tOVk1ROFhXS0d4Q08weW1famprRU5nN2x2VVh3bEJFZWgxUExQNG9NV2E1NERKaXZadW93azAyUjhKemszai1OUnNDUUY0b293?oc=5",
@@ -124,13 +145,6 @@
    "date": "2026-08-26T23:18:31+00:00",
    "source": "TAPinto",
    "title": "Hillsborough Sixth-Grader at Auten Road School Fires 66 at U.S. Kids' Golf World Championship - TAPinto",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbjlLWjdhbDBOUV9mVjhOa1o2Wk5Ldm04c1NrTlVBRmNsZEhzNlpXeDJXYmVsTm9Ma0hldXFzVWhiaDd6YmtQakx1cnhQY1BDYm9Sa0dLOHpHU3M4bWJiVldxUUUwNlR4X1lnX1lzRHpCNFV4M21FdzRkTnJBODVXRHYzdmNWbmY3OTRLeWxqWVczSXhkcS1TSDRmNlFWbWhtQkdETWpNeXdoUk1OaVRHZERES0VfR3FzaUgya1lsZFpMLXZKbzI0Qy1URkhQSF81aDR2cFRKc2hFN3ZKTGdSUmdkdDlRb2U5ZEVMS054Wng0bWot?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-08-26T23:18:31+00:00",
-   "source": "TAPinto",
-   "title": "Hillsborough Sixth-Grader at Auten Road School Fires 66 at U.S. Kids' Golf World Championship - TAPinto",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMWNoVTJ0TFpqY0UtazZjYXdwMW9yTlRvUFVMb0VtSjdBUWpUYmpydm55Ry13clNaWUZvN0RzYnotYk1hbFhDZkphQ1FhcWJ3YTJnUWhZYU9uMlpNaGs5cWR2Q2VDSHFKbE1sUC1PSE1BMHJnUUZjUFowT1dRYWxJUG1yUV9VVnJqOW9kdExKRmE4Mi1aNHlEX0NmQTN6eFBfd05ObWs5TlA5RUVJdFpsOGxSb0xQT0x0OWU4eEhreVV1MW5DclM5aTBadlVPb0IxRDhqVw?oc=5",
    "kind": "news"
   },
@@ -146,6 +160,13 @@
    "source": "Golfweek",
    "title": "LPGA adds new Hong Kong stop to spring Asia swing in 2027 - Golfweek",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmp4OE1rMV9iU0J3Wm9rZTVzRjBIVzVqR2hkM1hNdnJNYTRqeC1zT1FGUnRaTmJqVTFqbnQzX3FBMUQ2TW9JRXV5eHR5TjNJZDZNTWRqcVoxMkVpb3BiUGpMazZRQk1jdEFZdGVNUnZMUUdEZ2pDSnJuTlluaVI2YlUtQm9YREZaY2k5VjNoV3dMSXlVWGdaZ2xNckFaZmx6V2FyZl9tT1VqbGY5bDJDajBKQ2pOWUN6ejFyQVVNdk9WM3R2N1hoTEJvZWJ3UUVYLUVLdFBXRmNlNUVOd29N?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-08-26T07:00:00+00:00",
+   "source": "TAPinto",
+   "title": "Hillsborough Sixth-Grader at Auten Road School Fires 66 at U.S. Kids' Golf World Championship - TAPinto",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbjlLWjdhbDBOUV9mVjhOa1o2Wk5Ldm04c1NrTlVBRmNsZEhzNlpXeDJXYmVsTm9Ma0hldXFzVWhiaDd6YmtQakx1cnhQY1BDYm9Sa0dLOHpHU3M4bWJiVldxUUUwNlR4X1lnX1lzRHpCNFV4M21FdzRkTnJBODVXRHYzdmNWbmY3OTRLeWxqWVczSXhkcS1TSDRmNlFWbWhtQkdETWpNeXdoUk1OaVRHZERES0VfR3FzaUgya1lsZFpMLXZKbzI0Qy1URkhQSF81aDR2cFRKc2hFN3ZKTGdSUmdkdDlRb2U5ZEVMS054Wng0bWot?oc=5",
    "kind": "news"
   },
   {
@@ -178,8 +199,8 @@
   },
   {
    "date": "2026-08-20T08:36:23+00:00",
-   "source": "massgolf.org",
-   "title": "Mass Girls' Junior Amateur: Final Four Set At Ledges Golf Club - massgolf.org",
+   "source": "Mass Golf",
+   "title": "Mass Girls' Junior Amateur: Final Four Set At Ledges Golf Club - Mass Golf",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNRUM1MlFXbXpLbXp2NGFwbXVZT1JKSFlsdnV0cFVqSjJnU0ZobUFRLWhTYzhxVDhpNHlsV0RMSDhreVdXaVNjNE0xOW1GRTBoeEhqWk1wV2h3emt6Nk01TlJMTFZybG9tUU5uV05Tb1gxS0sy?oc=5",
    "kind": "news"
   },
@@ -192,8 +213,8 @@
   },
   {
    "date": "2026-08-20T07:00:00+00:00",
-   "source": "bernews.com",
-   "title": "Bradford Laing Wins U.S. Kids Golf Title - bernews.com",
+   "source": "Bernews",
+   "title": "Bradford Laing Wins U.S. Kids Golf Title - Bernews",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wWlJRcmgyQmJSTEtNYjVpeGNwWGc4dUNYVm9YRXg5enFYY2o3TzNQV0dZeDRmUmQ0T2lteS0wSHB6UnltX2FjMm1NODhPcmQ5TzZDR3VXSjNVRmlCVUZsbHRHeGlTUEVoT1hnOEFuT2xlWnlLckUw?oc=5",
    "kind": "news"
   },
@@ -332,6 +353,13 @@
   },
   {
    "date": "2026-08-07T07:00:00+00:00",
+   "source": "The Lufkin Daily News",
+   "title": "Local golfers set to play in AJGA Junior at Crown Colony - The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG1VdFpkQVJ0ZG50dHgzSmNaT25KUXlLZGlEYmZvTjNramJQVE8wTnp6ZmtLdVlFa2RuMFdabTVwTG9nc2NWV3JmY0trQUdib2o3aWlxaU80c2hqNWdNQkJmSXlmbEFWQnF4cEZKZERsZEFUQUg2V1BnUXcybE1qSzVJWHM1Q2EwVmJ2Wmp1T09SRnZua2czMU4wU0Q1Mmlmdks3OXpQRk5XQl81Z0NmYmw2SUtwdzhRRWpQUHEwU3JhY0c1UG1wMVVBTTJFRVNZMjVqWGswak4?oc=5",
+   "kind": "news"
+  },
+  {
+   "date": "2026-08-07T07:00:00+00:00",
    "source": "23ABC News Bakersfield",
    "title": "Oscar Liang and Kandice Chuang win titles at Bakersfield Country Club junior golf tournament - 23ABC News Bakersfield",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM0lhSXNoN2R3ZkprQUQxamwwM00zak1FaFhKNDNHWXlZVk01WE9HeHZkNkZiZ2NMbEhpUTJ3aVNjYTUzc0lBanprcWYyOGJlcldIRzRCWU90RkMtVlpINVlBbkxQZXpFQmt6Z1dCbE95LXk0VVhaTzJBbUdFdTNERFMycEJXc292YVItM0JJYWJoSDR1Tkl4SUd5TnRwaWg4YjZwdmJYSDQtQ19sa244Ty0wOUcyUzIwZnBJZG5nOTZaMHh3eVZwVTVlTmtmM3RFV2NUd05RMmZybTQ5ZmdSamdwR21VMDhoSWU4?oc=5",
@@ -342,13 +370,6 @@
    "source": "Bakersfield.com",
    "title": "Chuang, Liang claim AJGA Kevin Harvick Foundation Junior Golf titles - Bakersfield.com",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTM5dEJOMEY1a0UwZ0JVV2RVYmkteHIyTFFsUGFvZnRMVExHSU8zOXBaVFI5RVZtTXNyYWF5WTVrTkFINWkyRWMyajIyeUxsRncxYmJaaktVc1oxalkwM1FmdFFfOHU2RURITHJLbHBxWVRsRG81bXBCRGlZdjA4Sjh3OGVVUHplYkQ4eDVLQXg0YVdsU1VPN1ZCUU9tRUs2TWgtRXhlSEhCTzlxMDBQd2ZrdHlwanJ3MEJhTGVUY2RYTENiOW12YVk0Uk1iUzlRQUUwZ3RUR0RIdlpEZTJVUXhSLWZ3MU0?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-08-07T07:00:00+00:00",
-   "source": "lufkindailynews.com",
-   "title": "Local golfers set to play in AJGA Junior at Crown Colony - lufkindailynews.com",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG1VdFpkQVJ0ZG50dHgzSmNaT25KUXlLZGlEYmZvTjNramJQVE8wTnp6ZmtLdVlFa2RuMFdabTVwTG9nc2NWV3JmY0trQUdib2o3aWlxaU80c2hqNWdNQkJmSXlmbEFWQnF4cEZKZERsZEFUQUg2V1BnUXcybE1qSzVJWHM1Q2EwVmJ2Wmp1T09SRnZua2czMU4wU0Q1Mmlmdks3OXpQRk5XQl81Z0NmYmw2SUtwdzhRRWpQUHEwU3JhY0c1UG1wMVVBTTJFRVNZMjVqWGswak4?oc=5",
    "kind": "news"
   },
   {
@@ -538,27 +559,6 @@
    "source": "GolfNewsRI",
    "title": "RI Girls Junior Am Boasts Star Studded Semifinal Matchups - GolfNewsRI",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb09lUlFScnBndXVka0Z2M1QtWXIwOWdVT0JPTzBUNUtvRmIzczd6UC1EaDNmMkhSUjRObHI0amthUWlIYlYzMGNNSHgtUU1wekhtbmpoWDhMbVg2N0l3VXQ3cXBOUFhESndSUFItQ1Qyc0s0MzVDMXUyZkg0dFJ4VnhreXI1bkJIRHk1dFNHNWdvSUw0U1Fn?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-29T13:24:39+00:00",
-   "source": "Golfmagic",
-   "title": "Charlie Woods facing battle to make the cut at latest big junior golf event - Golfmagic",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0NIeDJFT3RuTGtlUGRCZ3d6X1dWNnFxZjAyaTVWTFF4TUt2dG4zV01qMkFXWG96VlhFSzlJQ2U1dVZ3WnhVY2dlenptcVJmVE8ySFNlYkx6ZGJwZDRNY0E5M2RKMnpIZFB2SGFZU25JUC00bkdnci1qZmliVVVMY2pTWUtGaVJadnJVS1F0R2VwcEFJMGw0eG5QUm5wRFItMWdxZjZ1MWw?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-29T10:38:26+00:00",
-   "source": "AmateurGolf.com",
-   "title": "Kailer Stone’s sizzling 68 sets pace at Junior PGA Championship - AmateurGolf.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzZGTXd5TDFFbzdTb19YS0pZWUl3VC1UNkxsN05oQjBNMFdQcVlwMkJqeU5JZlZ2WUZjaGE1emY1Nlh4am9IOE4tU3M1TC1FbjE1YmNYTDd3S0tLaC1KY20waHpLcUc3alhFV29peG1yMWFpR2dFMml1XzVRQWdvU0MxRXRnNXdWbjJEb05ZaTNjSmJvMzk0T1NXVHFPazl2a0thdGNpMHJHYmliNTI4?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-07-29T10:37:07+00:00",
-   "source": "AmateurGolf.com",
-   "title": "Carolyn Liu charges into Girls Junior PGA Championship lead after brilliant 64 at Fields Ranch - AmateurGolf.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDloRmg2MmlrMkNJeHltR0E5QXoySWFrX1VkUVlNdkJhTWJIY1FudDlXSEZ3SUx0NmJzN2Y0QWIySnJrWVYwNmt2aktOMDByQ1daYmtTQjhveUlfNlh5aG9RRVpoZjlRSGZodFBtZmJVMmlwT3UxOW1ROGlISHFPS29abEc1UTJlR0tvVnA4bDlkZ3RfNGR2c05iMUl1X25mV3QtNFVScnptMHd3bi1fYVZNeWwyZlhmQlBfZw?oc=5",
    "kind": "news"
   }
  ]
