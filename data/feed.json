@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-19T22:36:11.126201+00:00",
+ "updated": "2026-09-20T22:50:24.709048+00:00",
  "items": [
+  {
+   "date": "2026-09-20T12:37:44Z",
+   "source": "AGIF",
+   "title": "Relieved Pavit Holds Higa at Bay",
+   "url": "https://agif.asia/2026/09/relieved-pavit-holds-higa-at-bay/",
+   "kind": "news"
+  },
   {
    "date": "2026-09-19T09:11:36+00:00",
    "source": "Khaosod English",
@@ -79,6 +86,13 @@
    "kind": "news"
   },
   {
+   "date": "2026-09-09T07:00:00+00:00",
+   "source": "Ateneo de Manila University",
+   "title": "Datu Villamor wins inaugural US Kids Golf Philippines Championship - Ateneo de Manila University",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjRJY09YX1FyaUxVbmxrdVlaZ0VYdjBXX1VCenVveDBwaHppWGpsRmU1eWxsOGNzOUZqWXRoNEgwclFrc3U2SENiVGx6N2tfZXhHWXdOQ0sxNGE0Yy14aWtwMkpkM1pRemtlZGhhTkFickwtbU42WWVmRnlvV3ZYMnVTSGpTUVVhc0FGRi04YUExTzVtSXo3eFp5MGIwaVV3OE53?oc=5",
+   "kind": "news"
+  },
+  {
    "date": "2026-09-09T03:43:21+00:00",
    "source": "Ateneo de Manila University",
    "title": "Datu Villamor wins inaugural U.S. Kids Golf Philippines Championship - Ateneo de Manila University",
@@ -101,8 +115,8 @@
   },
   {
    "date": "2026-09-05T07:00:00+00:00",
-   "source": "golfweek.usatoday.com",
-   "title": "Why the AJGA's Junior Players is a launching pad for future PGA Tour stars - golfweek.usatoday.com",
+   "source": "Golfweek",
+   "title": "Why the AJGA's Junior Players is a launching pad for future PGA Tour stars - Golfweek",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1FDaVN2eUZFSG50R25LX1JrVml2S1M0c3BUUDhFSVB3Zml2ZzJTZ3Qza1dqVVRMMkliV3o2alhyOEU3RENoQ1FJSEI1cDlDS1FHLU41Y0J3R2lqakg3U0lmN0xkTkpobXJSOWxYLXFocXdDU3Utb3pILWdIVUVQbjR3S2lwZEQ5Qkk3MUt0R2Ixc1hpdTNHdDd6ZW1BamdNYlVpMGhiY3VkdzJjalFTTnJraWtQTnhSeldYQlJ0MmotYUp4Rm5zQlJjYno3Vy1xX0VDemhGZTRKaTA?oc=5",
    "kind": "news"
   },
@@ -283,8 +297,8 @@
   },
   {
    "date": "2026-08-26T07:00:00+00:00",
-   "source": "golfweek.usatoday.com",
-   "title": "LPGA adds new Hong Kong stop to spring Asia swing in 2027 - golfweek.usatoday.com",
+   "source": "Golfweek",
+   "title": "LPGA adds new Hong Kong stop to spring Asia swing in 2027 - Golfweek",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmp4OE1rMV9iU0J3Wm9rZTVzRjBIVzVqR2hkM1hNdnJNYTRqeC1zT1FGUnRaTmJqVTFqbnQzX3FBMUQ2TW9JRXV5eHR5TjNJZDZNTWRqcVoxMkVpb3BiUGpMazZRQk1jdEFZdGVNUnZMUUdEZ2pDSnJuTlluaVI2YlUtQm9YREZaY2k5VjNoV3dMSXlVWGdaZ2xNckFaZmx6V2FyZl9tT1VqbGY5bDJDajBKQ2pOWUN6ejFyQVVNdk9WM3R2N1hoTEJvZWJ3UUVYLUVLdFBXRmNlNUVOd29N?oc=5",
    "kind": "news"
   },
@@ -338,13 +352,6 @@
    "kind": "news"
   },
   {
-   "date": "2026-08-20T08:36:23+00:00",
-   "source": "Mass Golf",
-   "title": "Mass Girls' Junior Amateur: Final Four Set At Ledges Golf Club - Mass Golf",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNRUM1MlFXbXpLbXp2NGFwbXVZT1JKSFlsdnV0cFVqSjJnU0ZobUFRLWhTYzhxVDhpNHlsV0RMSDhreVdXaVNjNE0xOW1GRTBoeEhqWk1wV2h3emt6Nk01TlJMTFZybG9tUU5uV05Tb1gxS0sy?oc=5",
-   "kind": "news"
-  },
-  {
    "date": "2026-08-20T07:35:20+00:00",
    "source": "GolfWRX",
    "title": "13 Revealing Photos from an AJGA golf event - GolfWRX",
@@ -367,8 +374,8 @@
   },
   {
    "date": "2026-08-16T07:00:00+00:00",
-   "source": "wlox.com",
-   "title": "Pass Christian 11-year-old wins U.S. Kids Golf World Championship - wlox.com",
+   "source": "WLOX",
+   "title": "Pass Christian 11-year-old wins U.S. Kids Golf World Championship - WLOX",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOExSTTRqd1FmYmFXd3BhQzBUa0xhS2VDVVNabDUwTHFqR09HM19WeEwxalk3N2dxaFdfTWpiTE1kTnk4R2RvbjJiZlRTZ25hWjRKNmtYczRwX2dDZUY5SkVCcTFpdW1hZk5uWHpqVnAwY3BtNkd0ZW1icFl5WnZrcDV5bFZMckdDVXN0Q29PMVJoWThyYXNsY1JRVTjSAbABQVVfeXFMUHV0bEZ3OTRFSUtCQkZHdUNJYm11amZfODJDMnhrWlh3YVhDOHdqZzFxVjhCVTlZaU4ybW9vSVhaMVVNc29HZHhPWnNTa2czSjJvN1NzbmNKM2pLWlAydU5nQjZsdUhsdVJSUTdNZmlkaFJTV1R4WEVyTTV6MmRXS3ExVV94a3FhNlFneHp1WDNkcHQ4NWlDVkZDRzhNTzlKNTFOWFp0QXBSeEJuc2JMYmk?oc=5",
    "kind": "news"
   },
@@ -552,13 +559,6 @@
    "source": "Patch",
    "title": "Hillsborough 11-Year-Old Finishes Top 20 At U.S. Kids Golf World Championship - Patch",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWExeHgzNUthNGRMU1I2ektMMnNXa2xybnA5S0tXOXBkVzIwRnVKN25GR3pGb2trZDVrYW5nam5DVVAza2FzdWs4VTZsblFKaTVBRTVFbFIwdElZNEhNNktOZWpBN25BcFhnYWsya0ZhQjVPYnd2SGdHMzh2LUNjN2tjalI0RUJFcWR1RWkyWmtnYmJNRzFXcFVfbUhqUWRNR2ZRSkVYRmw4MG45T2JGT2Z0X1p6d9IBywFBVV95cUxQZ2NDNW5IUmZJNXNVSEIxbkhVUmgtRzE3aGpwT3ZMSnd6d29CZUFZNWNGVVhSYW91Ql9CczNnNlFlZkhVSlhfOTItRkNFcWVRQUNaNU9kd2Yzc3IzdzFSLWxJekVDT24zVjRaOHNtM1h2RVRaYWllV1JRR1VBOFJxMzYzanU0ZHotQk5zcVdLYm5pNnlZdXVJNWFLTC0yN3RWbDJCUTJBVjh6T3NVc0hhbTJxSk5hdjJpQVZQcnpaTC1McGt3MGlWelNBaw?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-08-04T07:00:00+00:00",
-   "source": "Patch",
-   "title": "Hillsborough 11-Year-Old Finishes Top 20 At U.S. Kids Golf World Championship - Patch",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWExeHgzNUthNGRMU1I2ektMMnNXa2xybnA5S0tXOXBkVzIwRnVKN25GR3pGb2trZDVrYW5nam5DVVAza2FzdWs4VTZsblFKaTVBRTVFbFIwdElZNEhNNktOZWpBN25BcFhnYWsya0ZhQjVPYnd2SGdHMzh2LUNjN2tjalI0RUJFcWR1RWkyWmtnYmJNRzFXcFVfbUhqUWRNR2ZRSkVYRmw4MG45T2JGT2Z0X1p6dw?oc=5",
    "kind": "news"
   }
  ]
