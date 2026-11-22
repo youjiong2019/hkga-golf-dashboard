@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:54:14.258122+00:00",
+ "updated": "2026-11-22T00:49:53.856932+00:00",
  "items": [
   {
    "date": "2026-11-16T17:58:32+00:00",
@@ -23,7 +23,7 @@
    "kind": "news"
   },
   {
-   "date": "2026-11-12T18:25:38+00:00",
+   "date": "2026-11-12T08:00:00+00:00",
    "source": "The Golf Wire",
    "title": "Miles Russell and Asterisk Talley Named 2026 Rolex Junior Players of the Year by the AJGA - The Golf Wire",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUo3djc4R2hoMGQyZHVLek15ME1CcnMzYUhTNVIzaTRaTjFQcjNVajdyZnFUTVhVTHo2TkxoalNhbzBOZGRaWFZHbjkzQlM5MEJRTm5oZzhLZGxMSUljMGRiZFVwVDBkOF9JSGstOGFVLTBDckZtYnByUkRDdjZOWGlCUksxUENTSmQ5NnpvdHI?oc=5",
@@ -84,6 +84,13 @@
    "title": "AGIF Award Winners Feted at Gala Dinner",
    "url": "https://agif.asia/2026/10/agif-award-winners-feted-at-gala-dinner/",
    "kind": "result"
+  },
+  {
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "Yahoo Sports",
+   "title": "AJGA auction taking bids on golf at Winged Foot, Oakmont, Sunningdale, more - Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTNQcC0wX1JCbFR1bmtqUmpvYXhyaUd2TUtTRDZxMnU2RXdQNjFBN0NBbE9VcW85dElOTlVSb0RFSl90d1FfOVRxWGpybjhHdDl2SkMtVkhsRWlpbzNUN1ZyeFBIdU1mQzVQUHkzVHF1SjVKbHJCNFdVcVNPVm9xdVJSZmQ?oc=5",
+   "kind": "news"
   },
   {
    "date": "2026-10-29T07:00:00+00:00",
@@ -331,6 +338,13 @@
    "kind": "news"
   },
   {
+   "date": "2026-10-11T07:00:00+00:00",
+   "source": "AmateurGolf.com",
+   "title": "ANNIKA Invitational: Asterisk Talley defends title with four-shot victory - AmateurGolf.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG1WVGEyak04My05RTFtdDAzTkpfT3VNRzk2VU9CQlhqWjQ4U2dTbjVrOVljb05BbXhPdHROOTlRY0dRa2lfamRLUW5udl96N2RiODdULVhsUFE1WFJYWDhnc3VyaEM2M1YzazNlQ09nZl9sSXc0azlxSWNSZ3VHQUZvc01tMmpZMFBRZ1NBNDZaMDBCUTE4TzhGZ3FyR2pZTll0WjFxRlpjRTdDYm1vQ2h4ZG84YXM?oc=5",
+   "kind": "news"
+  },
+  {
    "date": "2026-10-09T07:00:00+00:00",
    "source": "AmateurGolf.com",
    "title": "Hong Kong Open Amateur: Joonho Kim wins by seven shots - AmateurGolf.com",
@@ -545,20 +559,6 @@
    "source": "Mass Golf",
    "title": "Mass Girls' Junior Amateur: Final Four Set At Ledges Golf Club - Mass Golf",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNRUM1MlFXbXpLbXp2NGFwbXVZT1JKSFlsdnV0cFVqSjJnU0ZobUFRLWhTYzhxVDhpNHlsV0RMSDhreVdXaVNjNE0xOW1GRTBoeEhqWk1wV2h3emt6Nk01TlJMTFZybG9tUU5uV05Tb1gxS0sy?oc=5",
-   "kind": "news"
-  },
-  {
-   "date": "2026-09-19T07:46:50Z",
-   "source": "AGIF",
-   "title": "Shen Shines to End 65-Year Putra Cup Drought",
-   "url": "https://agif.asia/2026/09/shen-shines-to-end-65-year-putra-cup-drought/",
-   "kind": "news"
-  },
-  {
-   "date": "2026-09-19T07:17:59+00:00",
-   "source": "Asia-Pacific Golf Confederation",
-   "title": "Shen Shines as Hong Kong Ends 65-Year Putra Cup Drought - Asia-Pacific Golf Confederation",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FlRms1c19uUkZZclVnTDhnRjFJREVJV2xZOWo4NWx0UEcweno1U0VpSlNOaDhnbFBqUzFQbG10S0s0NDJFcjdMOEJnYjg5Q3I4TjBXd3h2QkMtZm03dUFSckc1VVpUT1lXbjRqVExvc3hVQW9kd0VYQlZQcnVHWnJoQ2R0Skk?oc=5",
    "kind": "news"
   }
  ]
